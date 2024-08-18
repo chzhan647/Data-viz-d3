@@ -11,6 +11,8 @@ This interactive plot uses dropdown menu to allow users to select different attr
 
 ### New UI component
 
-- shadcn: https://ui.shadcn.com/docs/components/dropdown-menu
+- Dropdown components using shadcn: https://ui.shadcn.com/docs/components/dropdown-menu
+- Legend components to show different types of flowers
+
 
 To render the image and explore the interactive feature of this plot, you can use http://localhost:3000/scatterplot_menu

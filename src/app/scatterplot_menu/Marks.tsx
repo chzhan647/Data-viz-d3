@@ -1,4 +1,4 @@
-import { geoNaturalEarth1, geoPath, geoGraticule } from "d3";
+// import { geoNaturalEarth1, geoPath, geoGraticule } from "d3";
 
 // const projection = geoNaturalEarth1();
 // const path = geoPath(projection);
